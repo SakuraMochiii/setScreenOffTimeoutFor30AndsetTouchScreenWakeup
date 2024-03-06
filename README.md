@@ -1,0 +1,1 @@
+# setScreenOffTimeoutFor30AndsetTouchScreenWakeup
